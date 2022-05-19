@@ -163,6 +163,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 3647AE0315CA0082006F70D6;
@@ -326,7 +327,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Test App 2/TestApp-Prefix.pch";
 				INFOPLIST_FILE = "Test App 2/TestApp-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				PRODUCT_BUNDLE_IDENTIFIER = io.appium.TestApp;
 				PRODUCT_NAME = TestApp;
 				PROVISIONING_PROFILE = "";
@@ -343,7 +344,7 @@
 				GCC_PREFIX_HEADER = "Test App 2/TestApp-Prefix.pch";
 				INFOPLIST_FILE = "Test App 2/TestApp-Info.plist";
 				INSTALL_PATH = "${LOCAL_APPS_DIR}";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				PRODUCT_BUNDLE_IDENTIFIER = io.appium.TestApp;
 				PRODUCT_NAME = TestApp;
 				PROVISIONING_PROFILE = "";
